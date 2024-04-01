@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e5c27e-9519-4e24-a0b5-3156d3fbce04" name="Changes" comment="Cheated for the first line &quot;printFinalTemperature(27.0, &quot;Celsius&quot;, &quot;Fahrenheit&quot;) { 9.0 / 5.0 * it + 32}&quot; as I didn't understand we needed the formulas or what the actual task was. 1/10 for this as practice due to non-extensive math being taught in the language yet and using the lambda expression at the end for the formula is smart, but I would not have even began to think of it. Do better Google">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SongCatalog.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c1e5c27e-9519-4e24-a0b5-3156d3fbce04" name="Changes" comment="Finished Code - Variables were used to store the songs data, popularity checker, and the function used to put the message together. A method was created to put the data together into a concise single string." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +40,7 @@
     "Gradle.Build Unit2FundPractice.executor": "Run",
     "Kotlin.MovieTicketKt.executor": "Run",
     "Kotlin.NotificationsKt.executor": "Run",
+    "Kotlin.SongCatalogKt.executor": "Run",
     "Kotlin.TempConvertKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -116,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711947353899</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Finished Code - Variables were used to store the songs data, popularity checker, and the function used to put the message together. A method was created to put the data together into a concise single string.">
+      <option name="closed" value="true" />
+      <created>1711948728716</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711948728716</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -127,6 +133,7 @@
     <MESSAGE value="Finished the &quot;Movie-ticket price&quot; had to &quot;cheat&quot; here due to getting stuck between the if expression and when expression. In the end it uses a when expression to return the appropriate price with a nested if/else expression to determine the day for the discount." />
     <MESSAGE value="Base Code - no edits." />
     <MESSAGE value="Cheated for the first line &quot;printFinalTemperature(27.0, &quot;Celsius&quot;, &quot;Fahrenheit&quot;) { 9.0 / 5.0 * it + 32}&quot; as I didn't understand we needed the formulas or what the actual task was. 1/10 for this as practice due to non-extensive math being taught in the language yet and using the lambda expression at the end for the formula is smart, but I would not have even began to think of it. Do better Google" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cheated for the first line &quot;printFinalTemperature(27.0, &quot;Celsius&quot;, &quot;Fahrenheit&quot;) { 9.0 / 5.0 * it + 32}&quot; as I didn't understand we needed the formulas or what the actual task was. 1/10 for this as practice due to non-extensive math being taught in the language yet and using the lambda expression at the end for the formula is smart, but I would not have even began to think of it. Do better Google" />
+    <MESSAGE value="Finished Code - Variables were used to store the songs data, popularity checker, and the function used to put the message together. A method was created to put the data together into a concise single string." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Code - Variables were used to store the songs data, popularity checker, and the function used to put the message together. A method was created to put the data together into a concise single string." />
   </component>
 </project>
