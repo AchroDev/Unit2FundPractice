@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e5c27e-9519-4e24-a0b5-3156d3fbce04" name="Changes" comment="Beginning code - no edits.">
+    <list default="true" id="c1e5c27e-9519-4e24-a0b5-3156d3fbce04" name="Changes" comment="idk">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Notifications.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Notifications.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MovieTicket.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/MovieTicket.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build Unit2FundPractice.executor": "Run",
+    "Kotlin.MovieTicketKt.executor": "Run",
+    "Kotlin.NotificationsKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -64,11 +67,38 @@
       <option name="project" value="LOCAL" />
       <updated>1711943291686</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="End of &quot;Mobile Notifications&quot; practice. Created an &quot;if/else if&quot; statement to complete the code.">
+      <option name="closed" value="true" />
+      <created>1711944544160</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711944544160</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Base Code - No edits.">
+      <option name="closed" value="true" />
+      <created>1711944633822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711944633822</updated>
+    </task>
+    <task id="LOCAL-00004" summary="idk">
+      <option name="closed" value="true" />
+      <created>1711944646511</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711944646511</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Beginning code - no edits." />
-    <option name="LAST_COMMIT_MESSAGE" value="Beginning code - no edits." />
+    <MESSAGE value="End of &quot;Mobile Notifications&quot; practice. Created an &quot;if/else if&quot; statement to complete the code." />
+    <MESSAGE value="Base Code - No edits." />
+    <MESSAGE value="idk" />
+    <option name="LAST_COMMIT_MESSAGE" value="idk" />
   </component>
 </project>
