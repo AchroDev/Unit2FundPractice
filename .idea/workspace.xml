@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e5c27e-9519-4e24-a0b5-3156d3fbce04" name="Changes" comment="Finished Code - Variables were used to store the songs data, popularity checker, and the function used to put the message together. A method was created to put the data together into a concise single string." />
+    <list default="true" id="c1e5c27e-9519-4e24-a0b5-3156d3fbce04" name="Changes" comment="Base Code - No Edits">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/InternetProfile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/InternetProfile.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Gradle.Build Unit2FundPractice.executor": "Run",
+    "Kotlin.InternetProfileKt.executor": "Run",
     "Kotlin.MovieTicketKt.executor": "Run",
     "Kotlin.NotificationsKt.executor": "Run",
     "Kotlin.SongCatalogKt.executor": "Run",
@@ -122,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711948728716</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Base Code - No Edits">
+      <option name="closed" value="true" />
+      <created>1711949056435</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711949056435</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +146,7 @@
     <MESSAGE value="Base Code - no edits." />
     <MESSAGE value="Cheated for the first line &quot;printFinalTemperature(27.0, &quot;Celsius&quot;, &quot;Fahrenheit&quot;) { 9.0 / 5.0 * it + 32}&quot; as I didn't understand we needed the formulas or what the actual task was. 1/10 for this as practice due to non-extensive math being taught in the language yet and using the lambda expression at the end for the formula is smart, but I would not have even began to think of it. Do better Google" />
     <MESSAGE value="Finished Code - Variables were used to store the songs data, popularity checker, and the function used to put the message together. A method was created to put the data together into a concise single string." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Code - Variables were used to store the songs data, popularity checker, and the function used to put the message together. A method was created to put the data together into a concise single string." />
+    <MESSAGE value="Base Code - No Edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Base Code - No Edits" />
   </component>
 </project>
