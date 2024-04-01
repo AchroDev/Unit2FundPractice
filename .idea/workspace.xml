@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e5c27e-9519-4e24-a0b5-3156d3fbce04" name="Changes" comment="Finished the &quot;Movie-ticket price&quot; had to &quot;cheat&quot; here due to getting stuck between the if expression and when expression. In the end it uses a when expression to return the appropriate price with a nested if/else expression to determine the day for the discount." />
+    <list default="true" id="c1e5c27e-9519-4e24-a0b5-3156d3fbce04" name="Changes" comment="Base Code - no edits.">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/TempConvert.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/TempConvert.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711946226335</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Base Code - no edits.">
+      <option name="closed" value="true" />
+      <created>1711946401423</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711946401423</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -105,6 +115,7 @@
     <MESSAGE value="Base Code - No edits." />
     <MESSAGE value="idk" />
     <MESSAGE value="Finished the &quot;Movie-ticket price&quot; had to &quot;cheat&quot; here due to getting stuck between the if expression and when expression. In the end it uses a when expression to return the appropriate price with a nested if/else expression to determine the day for the discount." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished the &quot;Movie-ticket price&quot; had to &quot;cheat&quot; here due to getting stuck between the if expression and when expression. In the end it uses a when expression to return the appropriate price with a nested if/else expression to determine the day for the discount." />
+    <MESSAGE value="Base Code - no edits." />
+    <option name="LAST_COMMIT_MESSAGE" value="Base Code - no edits." />
   </component>
 </project>
