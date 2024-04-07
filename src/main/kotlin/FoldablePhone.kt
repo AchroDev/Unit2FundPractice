@@ -15,23 +15,33 @@ open class Phone(var isScreenLightOn: Boolean = false){
 }
 
 // FoldablePhone class that inherits from the "Phone" class.
-class FoldablePhone(isFolded: Boolean) : Phone(isScreenLightOn = isFolded) {
+class FoldablePhone(var isFolded: Boolean = true) : Phone() {
 
-    var isFolded = true
-
+    // Overrided switchOn() function behavior to only turn on the screen if it isn't folded
     override fun switchOn() {
-        if (isFolded == false) {
-            switchOff()
-        } else {
-            switchOn()
+        if (!isFolded) {
+            isScreenLightOn = true
         }
     }
 
+    // Method to change the folding state to "folded"
     fun fold() {
-
+        isFolded = true
     }
 
-    fun close() {
-        
+    // Method to change the folding state to "unfolded"
+    fun unFold() {
+        isFolded = false
     }
+}
+
+// Entry point
+fun main() {
+    val newFoldablePhone = FoldablePhone()
+
+    newFoldablePhone.switchOn()
+    newFoldablePhone.checkPhoneScreenLight()
+    newFoldablePhone.unFold()
+    newFoldablePhone.switchOn()
+    newFoldablePhone.checkPhoneScreenLight()
 }
