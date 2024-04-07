@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e5c27e-9519-4e24-a0b5-3156d3fbce04" name="Changes" comment="&#10;Base Code - no edits.">
+    <list default="true" id="c1e5c27e-9519-4e24-a0b5-3156d3fbce04" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,30 +29,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2eTyicVxOqyjtMN4w5nQjNN5cIU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build Unit2FundPractice.executor": "Run",
-    "Kotlin.InternetProfileKt.executor": "Run",
-    "Kotlin.MovieTicketKt.executor": "Run",
-    "Kotlin.NotificationsKt.executor": "Run",
-    "Kotlin.SongCatalogKt.executor": "Run",
-    "Kotlin.TempConvertKt.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build Unit2FundPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.InternetProfileKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MovieTicketKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.NotificationsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SongCatalogKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TempConvertKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -149,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711951998567</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Extras">
+      <option name="closed" value="true" />
+      <created>1711953656011</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711953656011</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,6 +174,7 @@
     <MESSAGE value="Base Code - No Edits" />
     <MESSAGE value="Final Code - Compared to the solution, I only have one &quot;println&quot; method and one null check. Considerably conserving on code, but it would fail a lot more if the other data not being checked is null." />
     <MESSAGE value="&#10;Base Code - no edits." />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;Base Code - no edits." />
+    <MESSAGE value="Extras" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extras" />
   </component>
 </project>
